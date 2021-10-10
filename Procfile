@@ -1,1 +1,1 @@
-python3 manage.py bot
+worker: python manage.py bot
