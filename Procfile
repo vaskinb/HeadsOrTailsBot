@@ -1,1 +1,1 @@
-worker: python manage.py bot
+worker: python telegram_admin\manage.py bot
